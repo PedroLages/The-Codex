@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "50. Attachments",
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "01. Inbox",
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "showUnsupportedFiles": false
+}

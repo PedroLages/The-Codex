@@ -1,0 +1,59 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "99. Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "03. Main Notes",
+      "template": "99. Templates/Atomic Note.md"
+    },
+    {
+      "folder": "02. Source Materials",
+      "template": "99. Templates/Source Material Note.md"
+    },
+    {
+      "folder": "01. Inbox",
+      "template": "99. Templates/Inbox Notes.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    "99. Templates/Atomic Note.md",
+    "99. Templates/Inbox Notes.md"
+  ],
+  "startup_templates": [
+    "99. Templates/Atomic Note.md",
+    "99. Templates/Inbox Notes.md"
+  ],
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [
+    {
+      "folder": "02. Source Materials"
+    },
+    {
+      "folder": "05. Maps of Content"
+    },
+    {
+      "folder": "04. Tags"
+    }
+  ]
+}

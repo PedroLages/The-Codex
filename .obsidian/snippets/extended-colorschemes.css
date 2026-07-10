@@ -1,0 +1,29 @@
+
+I'd like to create a fully automated Bulletproof 4 Task Management System in Notion.
+
+Please provide a detailed step-by-step like i have 10 years old, guide on how to build this system. I need information on:
+
+i will have Tasks, Areas, Projects, Spaces, People, and databases like Clients, Resources, and OKRs.
+Database structure: The database structure will be base in the PARA method. So create a structure way to have a Master Databases page with all db i need.
+Essential properties: For each database, specify the necessary properties and their data types (e.g., text, date, relation, formulas).
+Formulas: Explain how to create and use formulas to automate task status and other calculations.
+Views: Describe how to create effective views for task management and analysis.
+Integration of methodologies: Incorporate GTD, PARA, Time Blocking, Pareto Principle, and Eat the Frog principles into the system.
+Icons: Give me the same icons are in use in the original Bulletproof 4 Task Management System.
+Dashboard: Also the same structure and layout.
+I'm new to Notion, so please provide clear and detailed instructions, step by step.
+
+The database is to be structed inpired in this article: https://uno.notion.vip/bulletproof-1/
+
+
+Tasks, Areas, Projects, Spaces, People, and databases like Clients, Resources, and OKRs
+
+Areas: 
+Projects: Projects
+Tasks: tasks
+Resources: people, clients, OKRs
+
+Tasks: Today, this week, inbox, my tasks, by space(team or department, the person responsible for completing the task, marketing, etc), by project, by organization/client, By context (environments, or circumstances that are best for completing ), Prioritize algorithmically.
+every project space in client displays a filtered view of its tasks from this master tasks database
+
+Projects is defined as a group of trasks with a clear outcome. each project is related to tasks from the master tasks db. along with its resources and related items from other dbs

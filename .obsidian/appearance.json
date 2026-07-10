@@ -1,0 +1,16 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "pedro"
+  ],
+  "theme": "moonstone",
+  "showRibbon": true,
+  "baseFontSize": 24,
+  "baseFontSizeAction": true,
+  "translucency": true,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "nativeMenus": true
+}

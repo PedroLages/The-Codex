@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Labels - Tag's": "multitext",
+    "labels/tags": "multitext",
+    "tag": "multitext",
+    "moc": "multitext"
+  }
+}
